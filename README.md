@@ -16,7 +16,7 @@ After loading the dataset into Power BI, the tables were **renamed for better re
 - `Plant_Hierarchy` → **Dim_Product**  
 - A **Dim_Date** table was also created for time intelligence calculations.  
 
-📥 [Download the dataset here](#) *(Update the link once uploaded to GitHub)*  
+📥 [[Download the dataset here](https://github.com/razamuhamadrazi/Plant-Co.-Report---Power-BI/blob/main/Plant_DTS.xls)]
 
 ## 📊 Key Features  
 ✅ **Dynamic Metric Selection** – Switch between Sales, Quantity, and Gross Profit using a slicer.  
