@@ -1,4 +1,5 @@
 # 📊 Plant Co. Sales Dashboard – Power BI  
+![Plant Co. Sales Dashboard](https://raw.githubusercontent.com/razamuhammadrazi/Plant-Co-Performance-Report-PowerBI/main/Plant%20Co.%20Performance%20Report.png)
 
 ## 🔹 Overview  
 This project is a **dynamic Power BI sales dashboard** for **Plant Co.**, designed to analyze **Sales, Quantity, and Gross Profit** across different regions, products, and time periods. The dashboard includes **YTD vs. PYTD comparisons, account profitability segmentation, and interactive filters** to support **data-driven business decisions**.  
